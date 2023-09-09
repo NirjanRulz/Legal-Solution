@@ -1,0 +1,66 @@
+
+
+.navbar-brand{
+    color: var(--Dark-02, #414040);
+    font-family: EB Garamond;
+    font-weight: 800;
+    font-size: 35px;
+}
+.primary-btn{
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 500;
+    border: none;
+    font-family: Poppins;
+    background-color: #B68C5A;
+}
+ .card-title1{
+    text-align: center;
+    font-family: EB Garamond;
+    font-size: 72px;
+    font-weight: 600;
+} 
+ .card-text1{
+    color: var(--Dark-06, #E7E7E7);
+    font-family: Poppins;
+    font-size: 16px;
+} 
+.input{
+    color: var(--Dark-04, #A0A0A0);
+    text-align: start;
+    font-family: Poppins;
+    font-size: 13px;
+}
+input[type=text],  textarea {
+    color: var(--Dark-03, #707070);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: var(--Dark-07, #F3F3F3);
+  }
+  input[type=email]{
+    color: var(--Dark-03, #707070);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: var(--Dark-07, #F3F3F3);
+  }
+  .primary-btn1{
+    width: 100%;
+    border: none;
+    background: #B68C5A;
+    color: #FFF;
+  }
+  
+/* .card-img-top{
+    width: 10px;
+    height: 50px;
+} */
