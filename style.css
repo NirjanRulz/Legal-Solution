@@ -43,7 +43,18 @@ input[type=text],  textarea {
     background: var(--Dark-07, #F3F3F3);
   }
   input[type=email]{
+
     color: var(--Dark-03, #707070);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: var(--Dark-07, #F3F3F3);
+  }
+  input[type=search]{
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -60,7 +71,18 @@ input[type=text],  textarea {
     color: #FFF;
   }
   
-/* .card-img-top{
-    width: 10px;
+  .primary-btn2{
     height: 50px;
-} */
+    width: 25%;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 500;
+    border: none;
+    font-family: Poppins;
+    background-color: #B68C5A;
+  }
+
+  .link p a{
+    text-decoration: none;
+    color: #FFF;
+  }
